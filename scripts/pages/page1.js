@@ -34,6 +34,7 @@ var btnClickCount = 0;
 function btn_onPress() {
     var myLabelText = "";
     var myButtonText = "";
+    alert ("Hello World");
 
     btnClickCount += 1;
 
